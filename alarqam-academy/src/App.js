@@ -8,7 +8,7 @@ const App = ()=> {
     <>
       {location.pathname !== '/sign-up' && location.pathname !== '/login' && <Navbar />}
       <Routes>
-        <Route path="/" exact element={<Home />} />
+        <Route path="/Alarqam-Academy" exact element={<Home />} />
       </Routes>
     </>
   )
