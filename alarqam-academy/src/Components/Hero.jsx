@@ -19,7 +19,7 @@ export default function Example() {
           />
         </div> */}
         <div className=" max-w-4xl py-0 flex items-center justify-start  sm:py-48 lg:py-56">
-          <div >
+          <div>
             <h1 className="text-4xl font-bold tracking-tight text-white sm:text-6xl">
               ALARQAM METHODS
             </h1>
